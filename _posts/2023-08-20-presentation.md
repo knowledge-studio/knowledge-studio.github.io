@@ -162,15 +162,17 @@ Author Name
 
 [comment]: # (!!!)
 
+[comment]: # (!!! data-background-image="https://knowledge-studio.github.io/resources/presentation/media/inkscape.png" data-background-size="contain")
+
 Press down on your keyboard or swipe down.
 
-[comment]: # (|||)
+[comment]: # (!!!)
 
 **Vertical slides!**
 
 (thanks [@porvik!](https://gitlab.com/da_doomer/markdown-slides/-/issues/8))
 
-[comment]: # (|||)
+[comment]: # (!!!)
 
 As many vertical slides as you like.
 
