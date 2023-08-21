@@ -177,3 +177,30 @@ Press down on your keyboard or swipe down.
 As many vertical slides as you like.
 
 [comment]: # (!!!)
+
+Add tables:
+
+| Insert | Tables |
+| ------ | ------ |
+| A row  | Another|
+| text   | more   |
+
+[comment]: # (!!!)
+
+## Vertical separator
+
+----------
+
+Some other text.
+
+[comment]: # (!!!)
+
+You can also use in-line HTML.
+
+<div style="font-size: 1em;">
+small
+</div>
+
+<div style="font-size: 5em;">
+large
+</div>
