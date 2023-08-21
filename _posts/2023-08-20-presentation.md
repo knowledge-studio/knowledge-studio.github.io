@@ -77,7 +77,7 @@ Use background videos, background pictures and **text formatting**,
 everything *without breaking* your markdown files.
 
 [comment]: # (Other background options: https://revealjs.com/backgrounds/)
-[comment]: # (!!! data-background-video="https://knowledge-studio.github.io/posts/presentation/media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-background-video="https://knowledge-studio.github.io/resources/presentation/media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 Even speaker notes, accessed through the `S` key on your keyboard.
 
@@ -85,5 +85,71 @@ Even speaker notes, accessed through the `S` key on your keyboard.
 
 Note:
 This will only appear in the speaker view! 🤯
+
+[comment]: # (!!!)
+
+## Pictures
+
+![picture of spaghetti](https://knowledge-studio.github.io/resources/presentation/media/image0.gif) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
+
+Showcase media including images, videos and animations.
+
+[comment]: # (!!!)
+
+## Animations
+
+- This is an example list
+- Just to showcase Reveal.js' animations
+
+[comment]: # (!!! data-auto-animate)
+
+## Animations
+
+- This is an example list
+- Just to showcase Reveal.js' animations
+- This item will be automatically faded-in
+
+[comment]: # (!!! data-auto-animate)
+
+```js [1-2|3|4]
+let a = 1;
+let b = 2;
+let c = x => 1 + 2 + x;
+c(3);
+```
+<!-- .element: data-id="code" -->
+
+[comment]: # (!!! data-auto-animate)
+
+```js [5]
+let a = 1;
+let b = 2;
+let c = x => 1 + 2 + x;
+c(3);
+c(5);
+```
+<!-- .element: data-id="code" -->
+
+Animate code as well <!-- .element: class="fragment" data-fragment-index="1" -->
+
+[comment]: # (!!! data-auto-animate)
+
+Insert Youtube videos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPfzRSBzNX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[comment]: # (!!!)
+
+Insert local videos.
+
+<iframe width="560" height="315" src="https://knowledge-studio.github.io/resources/presentation/media/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[comment]: # (!!!)
+
+Download [markdown-slides](https://gitlab.com/da_doomer/markdown-slides)!
+
+[comment]: # (!!!)
+
+A couple more examples follow.
 
 [comment]: # (!!!)
