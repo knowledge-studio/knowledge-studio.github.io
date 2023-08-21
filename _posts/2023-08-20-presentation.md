@@ -153,3 +153,54 @@ Download [markdown-slides](https://gitlab.com/da_doomer/markdown-slides)!
 A couple more examples follow.
 
 [comment]: # (!!!)
+
+![logo](https://knowledge-studio.github.io/recources/presentation/media/wide.png)
+
+***use markdown to write slides***
+
+Author Name
+
+[comment]: # (!!!)
+
+[comment]: # (!!! data-background-image="https://knowledge-studio.github.io/resources/presentation/media/inkscape.png" data-background-size="contain")
+
+Press down on your keyboard or swipe down.
+
+[comment]: # (|||)
+
+**Vertical slides!**
+
+(thanks [@porvik!](https://gitlab.com/da_doomer/markdown-slides/-/issues/8))
+
+[comment]: # (|||)
+
+As many vertical slides as you like.
+
+[comment]: # (!!!)
+
+Add tables:
+
+| Insert | Tables |
+| ------ | ------ |
+| A row  | Another|
+| text   | more   |
+
+[comment]: # (!!!)
+
+## Vertical separator
+
+----------
+
+Some other text.
+
+[comment]: # (!!!)
+
+You can also use in-line HTML.
+
+<div style="font-size: 1em;">
+small
+</div>
+
+<div style="font-size: 5em;">
+large
+</div>
