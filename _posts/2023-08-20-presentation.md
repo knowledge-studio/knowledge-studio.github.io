@@ -78,7 +78,7 @@ Use background videos, background pictures and **text formatting**,
 everything *without breaking* your markdown files.
 
 [comment]: # (Other background options: https://revealjs.com/backgrounds/)
-[comment]: # (!!! data-background-video="media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
+[comment]: # (!!! data-background-video="https://knowledge-studio.github.io/posts/presentation/media/video.mp4", data-background-video-loop data-background-video-muted data-background-opacity="0.2")
 
 Even speaker notes, accessed through the `S` key on your keyboard.
 
@@ -91,7 +91,7 @@ This will only appear in the speaker view! 🤯
 
 ## Pictures
 
-![picture of spaghetti](media/image0.gif) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
+![picture of spaghetti](https://knowledge-studio.github.io/posts/presentation/media/image0.gif) <!-- .element: style="height:50vh; max-width:80vw; image-rendering: crisp-edges;" -->
 
 Showcase media including images, videos and animations.
 
@@ -143,7 +143,7 @@ Insert Youtube videos.
 
 Insert local videos.
 
-<iframe width="560" height="315" src="media/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://knowledge-studio.github.io/posts/presentation/media/video.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [comment]: # (!!!)
 
@@ -155,7 +155,7 @@ A couple more examples follow.
 
 [comment]: # (!!!)
 
-![logo](media/wide.png)
+![logo](https://knowledge-studio.github.io/posts/presentation/media/wide.png)
 
 ***use markdown to write slides***
 
@@ -163,7 +163,7 @@ Author Name
 
 [comment]: # (!!!)
 
-[comment]: # (!!! data-background-image="media/inkscape.png" data-background-size="contain")
+[comment]: # (!!! data-background-image="https://knowledge-studio.github.io/posts/presentation/media/inkscape.png" data-background-size="contain")
 
 Press down on your keyboard or swipe down.
 
