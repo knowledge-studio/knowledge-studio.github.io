@@ -162,8 +162,6 @@ Author Name
 
 [comment]: # (!!!)
 
-[comment]: # (!!! data-background-image=https://knowledge-studio.github.io/resources/presentation/media/inkscape.png data-background-size=contain)
-
 Press down on your keyboard or swipe down.
 
 [comment]: # (|||)
