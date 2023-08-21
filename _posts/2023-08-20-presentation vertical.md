@@ -172,9 +172,17 @@ Press down on your keyboard or swipe down.
 
 (thanks [@porvik!](https://gitlab.com/da_doomer/markdown-slides/-/issues/8))
 
-[comment]: # (|||)
+<section>
 
-As many vertical slides as you like.
+As many vertical slides as you like.1
+
+</section>
+
+<section>
+
+As many vertical slides as you like.2
+
+</section>
 
 [comment]: # (!!!)
 
