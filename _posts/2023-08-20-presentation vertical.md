@@ -166,7 +166,7 @@ Author Name
 
 Press down on your keyboard or swipe down.
 
-[comment]: # (!!!)
+[comment]: # (^^^)
 
 **Vertical slides!**
 
